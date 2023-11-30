@@ -103,3 +103,11 @@ AMD Ryzen 9 5980HX with Radeon Graphics, 1 CPU, 16 logical and 8 physical cores
 | **ExponentialSearch** |   **1**   | **11** |  **25,329.182 ns** |   **401.3728 ns** |   **375.4443 ns** |  **25,356.859 ns** |     **-** |
 | **ExponentialSearch** |   **1**   | **12** |  **49,895.819 ns** |   **994.5625 ns** | **2,476.8058 ns** |  **50,302.644 ns** |     **-** |
 | **ExponentialSearch** |   **1**   | **13** |  **90,448.470 ns** | **1,744.9978 ns** | **1,791.9843 ns** |  **90,968.673 ns** |     **-** |
+
+## Результаты в виде графиков
+![График при первом заполнении](Graphs/FillType0.png)
+![Логарифмический график при первом заполнении](Graphs/FillType0Log.png)
+![График при втором заполнении](Graphs/FillType1.png)
+![Логарифмический график при втором заполнении](Graphs/FillType1Log.png)
+![График экспоненциального поиска при разных заполнениях](Graphs/ExponentialEveryFillType.png)
+![Сравнения графика экспоненциального поиска при разных заполнениях](Graphs/ExponentialEveryFillTypeComparison.png)
