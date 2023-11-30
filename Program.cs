@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using AlgoLab;
+using BenchmarkDotNet.Running;
 
-Console.WriteLine("Hello, World!");
+BenchmarkRunner.Run<Benchy>();
